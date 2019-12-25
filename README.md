@@ -1,4 +1,4 @@
-# KAKUSIN Enginieer Mind \:smile:
+# KAKUSIN Engineer Mind \:smile:
 カクシンエンジニアマインド 
  
 ## Technical Mind
